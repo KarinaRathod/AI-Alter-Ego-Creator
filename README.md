@@ -12,7 +12,7 @@ The AI Alter Ego Creator allows users to build a stronger version of themselves 
 - 🎭 A unique alter ego identity  
 - 🧠 Mindset and personality traits  
 - ⚡ Behavior rules and systems  
-- 🎯 Daily actionable missions  
+- 🎯 Daily actionable missions
 
 This tool bridges the gap between **who you are and who you want to become**.
 
